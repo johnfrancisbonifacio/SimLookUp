@@ -43,7 +43,7 @@ public class SimLookUp {
                                                      
                                                      
        Scanner in = new Scanner(System.in);
-       System.out.print("Enter: ");
+       System.out.print("Enter:  ");
        
        
        try{
