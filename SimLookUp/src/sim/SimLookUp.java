@@ -115,7 +115,6 @@ public class SimLookUp {
 
 		} catch (Exception e) {
 			System.out.println(e.getMessage());
-			System.out.println('s');
 		}
 
 	}
