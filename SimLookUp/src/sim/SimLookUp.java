@@ -91,7 +91,7 @@ public class SimLookUp {
 		//From Github: Sample comment. Try to pull
 		//From local: The Pull request working. Let me know if you receive this message by adding 'Confirmed' comment after this line.
 		//From Github: Confirmed.
-		//From Github: Hello
+		//From Github: Hello and hi
 		try {
 			String val = in.next();
 			if (val == "" || val.equals("")) {
