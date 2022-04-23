@@ -88,9 +88,7 @@ public class SimLookUp {
 
 		Scanner in = new Scanner(System.in);
 		System.out.print("Enter:  ");
-		//From Github: Sample comment. Try to pull
-		//From local: The Pull request working. Let me know if you receive this message by adding 'Confirmed' comment after this line.
-		//From Github: Confirmed.
+	
 		try {
 			String val = in.next();
 			if (val == "" || val.equals("")) {
