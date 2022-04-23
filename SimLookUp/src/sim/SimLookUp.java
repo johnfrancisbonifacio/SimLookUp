@@ -13,9 +13,6 @@ public class SimLookUp {
 		HashSet<String> sun = new HashSet<String>();
 		HashSet<String> tnt = new HashSet<String>();
 		
-		
-		
-		
 		globe.add("905");
 		globe.add("906");
 		globe.add("915");
