@@ -12,7 +12,10 @@ public class SimLookUp {
 		HashSet<String> dito = new HashSet<String>();
 		HashSet<String> sun = new HashSet<String>();
 		HashSet<String> tnt = new HashSet<String>();
-
+		
+		
+		
+		
 		globe.add("905");
 		globe.add("906");
 		globe.add("915");
@@ -88,7 +91,7 @@ public class SimLookUp {
 
 		Scanner in = new Scanner(System.in);
 		System.out.print("Enter:  ");
-	
+
 		try {
 			String val = in.next();
 			if (val == "" || val.equals("")) {
